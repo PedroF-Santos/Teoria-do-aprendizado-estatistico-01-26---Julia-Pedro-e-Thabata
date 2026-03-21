@@ -1,0 +1,20 @@
+              Variavel       |   Tipo   |    Unidade    | Descricao
+      SEQID                  | int64    |       -       | Identificador_sequencial_do_registro
+      Tipo_Rede              | texto    |       -       | Tipo_de_rede_de_monitoramento
+      UGRHI                  | texto    |       -       | Unidade_de_Gerenciamento_de_Recursos_Hidricos
+      Cod_Ponto              | texto    |       -       | Codigo_do_ponto_de_coleta
+      SistHidrico            | texto    |       -       | Sistema_hidrico_monitorado
+      Municipio              | texto    |       -       | Municipio_da_coleta
+      UF                     | texto    |       -       | unidade_federativa
+      Coleta_Data            | data     |       -       | Data_da_coleta_da_amostra
+      pH                     | numerico | unidade_de_pH | Potencial_hidrogenionico_da_agua
+      Temperatura_da_Agua    | numerico |      °C       | Temperatura_da_agua_no_momento_da_coleta
+      Turbidez               | numerico |      NTU      | Medida_de_turbidez_da_agua
+      Condutividade          | numerico |     µS/cm     | Condutividade_eletrica_da_agua
+      Oxigenio_Dissolvido    | numerico |     mg/L      | Quantidade_de_oxigenio_dissolvido_na_agua
+      DBO (5,20)             | numerico |     mg/L      | Demanda_bioquimica_de_oxigenio
+      Benzeno                | numerico |     µg/L      | Concentracao_de_benzeno_na_agua
+      Aluminio_Total         | numerico |     µg/L      | Concentracao_total_de_aluminio
+      Escherichia_coli       | numerico |   NMP/100_mL  | Quantidade_de_bacterias_E._coli
+      1,1,1-Tricloroetano    | numerico |     µg/L      | Concentracao_do_composto_organico
+      1,1,2,2-Tetracloroetano| numerico |     µg/L      | Concentracao_do_composto_organico
